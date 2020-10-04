@@ -3,7 +3,6 @@
 #include "Stack.h"
 #include <iostream>
 #include <string>
-#include <cstdio>
 
 using namespace std;
 class RPN
