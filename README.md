@@ -6,7 +6,7 @@ For this program you should have:
 * CMake 3.6  
 * gtest  
 Or you should do:  
-`sudo apt-get install libgtest-dev`
+`sudo apt-get install libgtest-dev`  
 `sudo apt-get install cmake`  
 `cd /usr/src/gtest`  
 `sudo cmake CMakeLists.txt`  
@@ -19,4 +19,4 @@ Or you should do:
 `cd build/`  
 `cmake ..`  
 `make`  
-`./TestSerization`  
+`./TestSerialization`  
